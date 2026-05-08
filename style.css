@@ -92,6 +92,19 @@ nav {
   gap: 15px;
 
 }
+.grid {
+  display: flex;
+  gap: 30px;
+}
+.div1 {
+background-color: rgb(195, 229, 240);
+}
+.div2 {
+  background-color: rgb(193, 249, 193);
+}
+.div3 {
+  background-color: rgb(237, 215, 181);
+}
 .pillar-card {
   background-color: white;
   border-radius: 12px;
