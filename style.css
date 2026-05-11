@@ -92,18 +92,62 @@ nav {
   gap: 15px;
 
 }
+.margin {
+  margin-bottom: 23px;
+  color: rgb(111, 108, 108);
+}
 .grid {
   display: flex;
-  gap: 30px;
+  gap: 40px;
 }
 .div1 {
-background-color: rgb(195, 229, 240);
+background-color: rgb(205, 231, 239);
 }
 .div2 {
-  background-color: rgb(193, 249, 193);
+  background-color: rgb(199, 237, 199);
 }
 .div3 {
-  background-color: rgb(237, 215, 181);
+  background-color: rgb(242, 226, 203);
+  border-radius: 12px;
+  
+}
+.button {
+  margin-top: 10px;
+  background-color: #5490F5;
+  color: white;
+  border: none;
+  padding: 10px ;
+  border-radius: 8px;
+  
+}
+.button1 {
+  margin-top: 10px;
+  background-color: #5490F5;
+  color: white;
+  border: none;
+  padding: 10px ;
+  border-radius: 8px;
+}
+.button2 {
+    margin-top: 10px;
+  background-color: #5490F5;
+  color: white;
+  border: none;
+  padding: 10px ;
+  border-radius: 8px;
+}
+.card {
+  border-radius: 12px;
+  padding: 28px;
+ 
+ 
+}
+.card-had {
+ margin-top: 12px;
+ margin-bottom: 12px;
+}
+.color {
+  color: rgb(102, 99, 99);
 }
 .pillar-card {
   background-color: white;
